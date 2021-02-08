@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore .DS_Store and Practice files
+.DS_Store
+201908-citibike-tripdata.csv
+NYC_CitiBike_Challenge_practicewith2tripdurcols.ipynb
+NYC_CitiBike_Challenge_starter_code.ipynb
+citibike-tripdata_updated.csv
+citibike-tripdata_datetime.csv
